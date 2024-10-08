@@ -1,15 +1,14 @@
-# Trivia Color
-Made with Unity 2019.4.11f1
+# Recycle Corp
+Made with Unity 2020.3.12f1
 
 # Used Technologies
 * DoTween
-* Addressables
 * Cinemachine
+* Shader graph
 * Scriptables
-* Singleton pattern
 * Stylized water
-* UI toolkit
+* Joystick pack
 * Taptics
   
 # Gameplay Video
-[![Trivia Color](https://img.youtube.com/vi/ToPGemjF0HY/0.jpg)](https://www.youtube.com/watch?v=ToPGemjF0HY)
+[![Recycle Corp](https://img.youtube.com/vi/aqMp7LhoIpk/0.jpg)](https://www.youtube.com/watch?v=aqMp7LhoIpk)
